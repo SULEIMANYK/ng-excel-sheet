@@ -1,0 +1,12 @@
+.centered-div {
+    width: 50%; /* Adjust the width as per your requirement */
+    margin: 0 auto; /* This centers the div horizontally */
+   
+  }
+  .title {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-bottom: 10px;
+    direction: ltr;
+    right: 100px !important;
+  }

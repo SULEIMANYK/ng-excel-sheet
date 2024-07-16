@@ -1,0 +1,9 @@
+.luckysheet-container {
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    width: 70%;
+    height: 80%;
+    right: 90px;
+    top: 80px;
+}
