@@ -3,10 +3,18 @@
     margin: 0 auto; /* This centers the div horizontally */
    
   }
-  .title {
-    font-size: 1.5em;
+  body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f5f5f5;
+    direction: rtl; /* Ensures right-to-left text direction for Arabic */
+    text-align: center;
+}
+
+.title {
+    font-size: 2em; /* Adjust the size as needed */
+    color: #333; /* Dark grey color */
+    margin: 20px 0; /* Space around the heading */
     font-weight: bold;
-    margin-bottom: 10px;
-    direction: ltr;
-    right: 100px !important;
-  }
+    border-bottom: 2px solid #e0e0e0; /* Optional underline effect */
+    padding-bottom: 10px; /* Space between text and underline */
+}
